@@ -1,0 +1,28 @@
+body {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+pre {
+    font-size: larger;
+}
+
+button {
+    font-size: 18px;
+    font-weight: 700;
+    color: black;
+    background-color: lightgray;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 12px;
+    margin-right: 12px;
+}
+
+button:hover{
+    cursor: pointer;
+}
